@@ -2,7 +2,7 @@
 
 ## Creating A Portfolio Website
 
-In order to show my work to potential employers, I made this portfolio site so it would be easy to see projects I have made, find out my contact information and learn about me.   
+In order to show my work to potential employers, I made this portfolio site so it would be easy to see projects I have made, find out my contact information. I made it responsive to minimizing the screen so that it would look good on tablets and mobile devices. 
 
 ## Installation
 
@@ -12,7 +12,7 @@ Clone the GitHub repository and open the index.html file located in /Josh-Rogers
 
 [Here is a link to the deployed page on Github](https://roshjogers.github.io/Josh-Rogers-Portfolio/)
 
-![Image of Horiseon website](assets/images/portfolio-screenshot.png)
+![Image of deployed Portfolio website](assets/images/portfolio-screenshot.png)
 
 ## Credits
 
